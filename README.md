@@ -40,6 +40,12 @@ Jika sudah memasukan semua syntax diatas dan telah di run, maka kamu akan mendap
 
 ![ubay2](foto/ubay2.png)
 
+# PRAKTIKUM 1 - LATIHAN 2
+
+![ubay3](foto/ubay3.png)
+
+
+
 
 
 
