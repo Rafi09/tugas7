@@ -1,1 +1,4 @@
-# tugas7
+# LATIHAN 1
+
+![uby](foto/uby.png)
+
