@@ -1,22 +1,29 @@
 # LATIHAN 1
+# PERTEMUAN 7
+### NAMA: RAFI UBAIDILLAH
+### KELAS: TI. 20. A. 1
+### NIM: 312010090
 
-![uby](foto/uby.png)
+![ubay1](foto/ubay1.png)
 
-# JAWABAN
-
-* Buka text editor, PyCharm, Atom, Visual Studio, dan lain-lain. Kemudian salin kode berikut
+Pada tugas pertama, saya diminta untuk membuat sebuah program pengulangan bertingkat yang nantinya akan menghasilkan output seperti gambat diatas. Untuk bisa dapat menghasilkan output tersebut maka saya memasukan syntax:
 
 ````
-1 for i in range(10):
-2     for j in range(10):
-3         k = i + j
-4         if(k<10):
-5             print(k, end="   ")
-6         else:
-7             print(k, end="  ")
-8     print()
-9
+baris = 10
+kolom = baris
+
+for bar in range(baris):
+    for col in range(kolom):
+        tab = bar+col
+        print("{0:>5}".format(tab), end='')
+    print()
 ````
 
-![uby1](foto/uby1.png)
+Mengapa demikian? Karena untuk dapat melakukan pengulangan bertingkat kamu perlu memasukan
+
+````
+Mengapa demikian? Karena untuk dapat melakukan pengulangan bertingkat kamu perlu memasukan
+````
+
+
 
